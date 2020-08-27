@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: argo-test
-        image: "ramana96/jenkins-demo:2"
+        image: "ramana96/jenkins-demo:1"
         ports:
         - containerPort: 8081
         imagePullPolicy: Always
