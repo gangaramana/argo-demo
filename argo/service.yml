@@ -8,4 +8,4 @@ spec:
   - port: 81
     targetPort: 8081
   selector:
-    app: hello-kubernetes
+    app: argo-test
